@@ -354,7 +354,7 @@
     "File": "ch225shellparamdata.user",
     "Shell ID": "0",
     "Title": "",
-    "Description": "Crashes the game"
+    "Description": "The game crashes."
   },
   {
     "File Description": "Skeleton",
@@ -396,63 +396,63 @@
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "1",
     "Title": "\u003CUse\u003E Rapid Shot",
-    "Description": "spawns the impact shell of a rapid shot"
+    "Description": "Creates a rapid-firing impact shell."
   },
   {
     "File Description": "",
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "2",
     "Title": "Rapid shot_clinging",
-    "Description": "spawns the impact shell of a rapid shot"
+    "Description": "Creates a rapid-firing impact shell."
   },
   {
     "File Description": "",
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "3",
     "Title": "\u003C\u003CUsage\u003E\u003E [EM only] Firestorm (for VS Mage)",
-    "Description": "small flare - looks like if you combined many of them and had them move it would make Flagration"
+    "Description": "Small flares - I think if you combine several and move them around, you'll get a flagration."
   },
   {
     "File Description": "",
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "4",
     "Title": "\u003C\u003CUsage\u003E\u003E [EM only] Firestorm flame part",
-    "Description": "flare - looks and sounds like the effect that plays when flagration impacts a target"
+    "Description": "Flare - Looks and sounds like an effect that plays when a flagration hits a target."
   },
   {
     "File Description": "",
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "5",
     "Title": "[EM only] Firestorm Lv2",
-    "Description": "small flare - looks like if you combined many of them and had them move it would make Flagration"
+    "Description": "Small flares - I think combining several of them and making them move would result in flagration."
   },
   {
     "File Description": "",
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "6",
     "Title": "[EM only] Firestorm Lv2 flame part",
-    "Description": "flare - looks and sounds like the effect that plays when flagration impacts a target"
+    "Description": "Flare - Looks and sounds like an effect that plays when a flagration hits a target."
   },
   {
     "File Description": "",
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "7",
     "Title": "\u003C\u003CUsage\u003E\u003E [EM only] Thunder Rain",
-    "Description": "Single lightning strike after a delay. Similar to NPC mage spells"
+    "Description": "A single lightning strike after a delay. Similar to NPC wizard spells."
   },
   {
     "File Description": "",
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "8",
     "Title": "[EM only] For chasing Thunder Rain",
-    "Description": "Instant single lightning strike. SImilar to followup levin attacks"
+    "Description": "Instant single lightning strike. Similar to subsequent Levin attacks"
   },
   {
     "File Description": "",
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "9",
     "Title": "[EM only] Frost Spike Lv1",
-    "Description": "Single frost spike after a delay. Similar to NPC mage spells"
+    "Description": "Single frost spike after delay. Similar to NPC wizard spells."
   },
   {
     "File Description": "",
@@ -466,7 +466,7 @@
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "11",
     "Title": "\u003C\u003CUsage\u003E\u003E [EM only] Frost Spike",
-    "Description": "Instant single lightning strike. SImilar to followup levin attacks"
+    "Description": "Instant single lightning strike. Similar to subsequent Levin attacks"
   },
   {
     "File Description": "",
@@ -494,14 +494,14 @@
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "15",
     "Title": "Power Shot",
-    "Description": "Impact of a charged magic shot"
+    "Description": "Effects of Charged Magic Shot"
   },
   {
     "File Description": "",
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "16",
     "Title": "Power shot_clinging",
-    "Description": "Impact of a charged magic shot"
+    "Description": "Effects of Charged Magic Shot"
   },
   {
     "File Description": "",
@@ -809,7 +809,7 @@
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "60",
     "Title": "",
-    "Description": "Arugal Flare explosion"
+    "Description": "Arugal flare explosion"
   },
   {
     "File Description": "",
@@ -823,7 +823,7 @@
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "62",
     "Title": "",
-    "Description": "Arugal Flare bigger explosion"
+    "Description": "Arugal Flare Bigger Explosion"
   },
   {
     "File Description": "",
@@ -837,7 +837,7 @@
     "File": "ch226shellparamdata_jobmagic.user",
     "Shell ID": "64",
     "Title": "",
-    "Description": "Arugal Flare biggest explosion"
+    "Description": "Arugal Flare Maximum Explosion"
   },
   {
     "File Description": "",
@@ -949,63 +949,63 @@
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "0",
     "Title": "Dark bullet (large)",
-    "Description": "Thundermine appears, explodes and dispenses a large bullet towards the ground in a sort of arc"
+    "Description": "A thunder mine appears and explodes, shooting a large bullet in an arc into the ground."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "1",
     "Title": "Obj hit",
-    "Description": "Dark explosion"
+    "Description": "dark explosion"
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "2",
     "Title": "Terrain hit",
-    "Description": "Big explosion (on water surface?)"
+    "Description": "Big explosion on the water?"
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "3",
     "Title": "Black bullet (large)",
-    "Description": "One big tracking bullet"
+    "Description": "one large tracer bullet"
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "4",
     "Title": "",
-    "Description": "Nothing clearly visible, sound of explosion is heard"
+    "Description": "Nothing is clearly visible, but an explosion is heard."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "5",
     "Title": "",
-    "Description": "6 Thundermines appear in right-angle array"
+    "Description": "Six Thundermines appear in an orthogonal arrangement."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "6",
     "Title": "Ichiban Shangright",
-    "Description": "Projectile appears in explosion and shoots towards the ground"
+    "Description": "A projectile appears from the explosion and is fired towards the ground."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "7",
     "Title": "Ichiban Shizuo",
-    "Description": "Projectile appears in explosion and shoots towards the ground"
+    "Description": "A projectile emerges from the explosion and is launched toward the ground."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "8",
     "Title": "Second paragraph above right",
-    "Description": "Projectile appears in explosion and shoots towards the ground"
+    "Description": "A projectile emerges from the explosion and is launched toward the ground."
   },
   {
     "File Description": "",
@@ -1019,84 +1019,84 @@
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "10",
     "Title": "Three paragraphs right",
-    "Description": "Projectile appears in explosion and shoots towards the ground"
+    "Description": "A projectile emerges from the explosion and is launched toward the ground."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "11",
     "Title": "three-tier left",
-    "Description": "Projectile appears in explosion and shoots towards the ground"
+    "Description": "A projectile emerges from the explosion and is launched toward the ground."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "12",
     "Title": "Bottom right",
-    "Description": "Projectile appears in explosion and shoots towards the ground"
+    "Description": "A projectile emerges from the explosion and is fired towards the ground."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "13",
     "Title": "Ichiban Shizuo",
-    "Description": "Thundermine appears, persists for a long while"
+    "Description": "A thunderstorm appears and lasts for a long time."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "14",
     "Title": "Ichiban Shangzuo",
-    "Description": "Thundermine appears, persists for a long while"
+    "Description": "Thunder appears and lasts for a long time."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "15",
     "Title": "Ichiban Shangright",
-    "Description": "Thundermine appears, persists for a long while"
+    "Description": "A thunderstorm appears and lasts for a long time."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "16",
     "Title": "Second paragraph upper left",
-    "Description": "Thundermine appears, persists for a long while"
+    "Description": "A thunderstorm appears and lasts for a long time."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "17",
     "Title": "Second paragraph above right",
-    "Description": "Thundermine appears, persists for a long while"
+    "Description": "A thunder mine appears and lasts for a long time."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "18",
     "Title": "three-tier left",
-    "Description": "Thundermine appears, persists for a long while"
+    "Description": "A thunderstorm appears and lasts for a long time."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "19",
     "Title": "Three paragraphs right",
-    "Description": "Thundermine appears, persists for a long while"
+    "Description": "A thunderstorm appears and lasts for a long time."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "20",
     "Title": "Ichiban Shizuo",
-    "Description": "Thundermine appears, persists for a long while"
+    "Description": "A thunderstorm appears and lasts for a long time."
   },
   {
     "File Description": "",
     "File": "ch227darkbulletlshellparamdata.user",
     "Shell ID": "21",
     "Title": "Bottom right",
-    "Description": "Thundermine appears, persists for a long while"
+    "Description": "A thunderstorm appears and lasts for a long time."
   },
   {
     "File Description": "Lich/Wight",
@@ -1110,7 +1110,7 @@
     "File": "ch227darkbulletsshellparamdata.user",
     "Shell ID": "1",
     "Title": "Phantom bullet tracking 1 sign",
-    "Description": "Tracking bullets have different angles, tracking parameters, and damage"
+    "Description": "Tracer bullets have different angles, trace parameters and damage."
   },
   {
     "File Description": "",
@@ -1306,7 +1306,7 @@
     "File": "ch227001darkbulletslightvershellparamdata.user",
     "Shell ID": "0",
     "Title": "Dark bullet (small)",
-    "Description": "Tracking bullets have different angles, tracking parameters, and damage"
+    "Description": "Tracer bullets have different angles, trace parameters and damage."
   },
   {
     "File Description": "",
@@ -1383,7 +1383,7 @@
     "File": "ch227001darkbulletslightvershellparamdata.user",
     "Shell ID": "11",
     "Title": "Anxi (small)",
-    "Description": "Spawns single bullet that flies in an irregular spiral--gravity might pull its trajectory slowly downwards?"
+    "Description": "Produces a single bullet that flies in an irregular spiral. Could gravity slowly pull that trajectory downward?"
   },
   {
     "File Description": "",
@@ -1411,7 +1411,7 @@
     "File": "ch227001darkbulletslightvershellparamdata.user",
     "Shell ID": "15",
     "Title": "Dark bullet (small) 6 x 3 shots",
-    "Description": "Locks position relative to player"
+    "Description": "Lock position for player"
   },
   {
     "File Description": "",

@@ -1,0 +1,1376 @@
+{
+    "ch220000": {
+        "id": 4075430906,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_00": {
+        "id": 3831138060,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_01": {
+        "id": 681487416,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_02": {
+        "id": 505830464,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_03": {
+        "id": 3354236422,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_04": {
+        "id": 3926755095,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_10": {
+        "id": 2673306579,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_11": {
+        "id": 4050526927,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_12": {
+        "id": 498711577,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_13": {
+        "id": 3340998717,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_14": {
+        "id": 886594300,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_90": {
+        "id": 979398568,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220000_91": {
+        "id": 3738879281,
+        "is_goblin": true,
+        "name": "Goblin"
+    },
+    "ch220001": {
+        "id": 824292082,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_00": {
+        "id": 3023839524,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_01": {
+        "id": 820168355,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_02": {
+        "id": 3671779649,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_03": {
+        "id": 714445199,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_10": {
+        "id": 1119391072,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_11": {
+        "id": 3959282474,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_12": {
+        "id": 1072978625,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_13": {
+        "id": 265987869,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_20": {
+        "id": 2108697931,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_21": {
+        "id": 3746646715,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_22": {
+        "id": 2402686166,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220001_23": {
+        "id": 1433009442,
+        "is_goblin": true,
+        "name": "Hobgoblin"
+    },
+    "ch220002": {
+        "id": 1659799223,
+        "is_goblin": true,
+        "name": "Chopper"
+    },
+    "ch220002_00": {
+        "id": 617454969,
+        "is_goblin": true,
+        "name": "Chopper"
+    },
+    "ch220002_01": {
+        "id": 3236912930,
+        "is_goblin": true,
+        "name": "Chopper"
+    },
+    "ch220002_02": {
+        "id": 207240957,
+        "is_goblin": true,
+        "name": "Chopper"
+    },
+    "ch220002_03": {
+        "id": 86583291,
+        "is_goblin": true,
+        "name": "Chopper"
+    },
+    "ch220003": {
+        "id": 3901007162,
+        "is_goblin": true,
+        "name": "Knacker"
+    },
+    "ch220003_00": {
+        "id": 2774043831,
+        "is_goblin": true,
+        "name": "Knacker"
+    },
+    "ch220003_01": {
+        "id": 3404862741,
+        "is_goblin": true,
+        "name": "Knacker"
+    },
+    "ch220003_02": {
+        "id": 1873000869,
+        "is_goblin": true,
+        "name": "Knacker"
+    },
+    "ch220003_03": {
+        "id": 2246101787,
+        "is_goblin": true,
+        "name": "Knacker"
+    },
+    "ch221000": {
+        "id": 984436780,
+        "is_lizard": true,
+        "name": "Saurian"
+    },
+    "ch221000_00": {
+        "id": 1563777152,
+        "is_lizard": true,
+        "name": "Saurian"
+    },
+    "ch221001": {
+        "id": 3739136302,
+        "is_lizard": true,
+        "name": "Asp"
+    },
+    "ch221001_00": {
+        "id": 2286111823,
+        "is_lizard": true,
+        "name": "Asp"
+    },
+    "ch221002": {
+        "id": 3773499102,
+        "is_lizard": true,
+        "name": "Rattler"
+    },
+    "ch221002_00": {
+        "id": 260695884,
+        "is_lizard": true,
+        "name": "Rattler"
+    },
+    "ch221002_20": {
+        "id": 2605756573,
+        "is_lizard": true,
+        "name": "Rattler"
+    },
+    "ch221003": {
+        "id": 3737589358,
+        "is_lizard": true,
+        "name": "Magma Scale"
+    },
+    "ch221003_00": {
+        "id": 3777932813,
+        "is_lizard": true,
+        "name": "Magma Scale"
+    },
+    "ch221004": {
+        "id": 821632591,
+        "is_lizard": true,
+        "name": "Serpent"
+    },
+    "ch221004_00": {
+        "id": 597146809,
+        "is_lizard": true,
+        "name": "Serpent"
+    },
+    "ch222000": {
+        "can_fly": true,
+        "id": 2034931361,
+        "is_harpy": true,
+        "name": "Harpy"
+    },
+    "ch222000_00": {
+        "can_fly": true,
+        "id": 3700061936,
+        "is_harpy": true,
+        "name": "Harpy"
+    },
+    "ch222001": {
+        "can_fly": true,
+        "id": 44571581,
+        "is_harpy": true,
+        "name": "Venin Harpy"
+    },
+    "ch222001_00": {
+        "can_fly": true,
+        "id": 1086493832,
+        "is_harpy": true,
+        "name": "Venin Harpy"
+    },
+    "ch222002": {
+        "can_fly": true,
+        "id": 352780568,
+        "is_harpy": true,
+        "name": "Gore Harpy"
+    },
+    "ch222002_00": {
+        "can_fly": true,
+        "id": 1993240449,
+        "is_harpy": true,
+        "name": "Gore Harpy"
+    },
+    "ch222003": {
+        "can_fly": true,
+        "id": 2537311039,
+        "is_harpy": true,
+        "name": "Succubus"
+    },
+    "ch222003_00": {
+        "can_fly": true,
+        "id": 2025923066,
+        "is_harpy": true,
+        "name": "Succubus"
+    },
+    "ch222003_20": {
+        "can_fly": true,
+        "id": 4279131294,
+        "is_harpy": true,
+        "name": "Succubus"
+    },
+    "ch223000": {
+        "id": 3074847708,
+        "is_canine": true,
+        "name": "Wolf"
+    },
+    "ch223000_00": {
+        "id": 3503729693,
+        "is_canine": true,
+        "name": "Wolf"
+    },
+    "ch223001": {
+        "id": 3826873172,
+        "is_canine": true,
+        "name": "Redwolf"
+    },
+    "ch223001_00": {
+        "id": 4267949999,
+        "is_canine": true,
+        "name": "Redwolf"
+    },
+    "ch223001_01": {
+        "id": 1432231968,
+        "is_canine": true,
+        "name": "Redwolf"
+    },
+    "ch223002": {
+        "id": 463959734,
+        "is_canine": true,
+        "name": "Blackdog"
+    },
+    "ch223002_00": {
+        "id": 1641985855,
+        "is_canine": true,
+        "name": "Blackdog"
+    },
+    "ch224000": {
+        "id": 3727708212,
+        "name": "Slime"
+    },
+    "ch224000_00": {
+        "id": 579176354,
+        "name": "Slime"
+    },
+    "ch224001": {
+        "id": 1440405779,
+        "name": "Ooze"
+    },
+    "ch224001_00": {
+        "id": 453830893,
+        "name": "Ooze"
+    },
+    "ch224002": {
+        "id": 4095108099,
+        "name": "Sludge"
+    },
+    "ch224002_00": {
+        "id": 2686608683,
+        "name": "Sludge"
+    },
+    "ch225000": {
+        "can_float": true,
+        "id": 2548825760,
+        "is_undead": true,
+        "name": "Phantom"
+    },
+    "ch225000_00": {
+        "can_float": true,
+        "id": 2446613150,
+        "is_undead": true,
+        "name": "Phantom"
+    },
+    "ch225001": {
+        "can_float": true,
+        "id": 1670555315,
+        "is_undead": true,
+        "name": "Phantasm"
+    },
+    "ch225001_00": {
+        "can_float": true,
+        "id": 4115095027,
+        "is_undead": true,
+        "name": "Phantasm"
+    },
+    "ch225002": {
+        "can_float": true,
+        "id": 2286707282,
+        "is_undead": true,
+        "name": "Specter"
+    },
+    "ch225002_00": {
+        "can_float": true,
+        "id": 804066478,
+        "is_undead": true,
+        "name": "Specter"
+    },
+    "ch226000": {
+        "id": 172545239,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226000_00": {
+        "id": 3778529772,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226000_01": {
+        "id": 3499882976,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226001": {
+        "id": 2162458964,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226001_01": {
+        "id": 2034177105,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226001_03": {
+        "id": 1831724056,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226001_05": {
+        "id": 997659575,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226001_06": {
+        "id": 409454115,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226002": {
+        "id": 996797807,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226002_01": {
+        "id": 325028463,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226002_03": {
+        "id": 2774400895,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226002_05": {
+        "id": 3069007639,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226002_06": {
+        "id": 1862515730,
+        "is_undead": true,
+        "name": "Skeleton"
+    },
+    "ch226003": {
+        "id": 2778171479,
+        "is_undead": true,
+        "name": "Skeleton Lord"
+    },
+    "ch226003_00": {
+        "id": 422306432,
+        "is_undead": true,
+        "name": "Skeleton Lord"
+    },
+    "ch227000": {
+        "can_float": true,
+        "id": 3402660597,
+        "is_boss": true,
+        "is_undead": true,
+        "name": "Lich"
+    },
+    "ch227000_00": {
+        "can_float": true,
+        "id": 3566561083,
+        "is_boss": true,
+        "is_undead": true,
+        "name": "Lich"
+    },
+    "ch227001": {
+        "can_float": true,
+        "id": 715429530,
+        "is_boss": true,
+        "is_undead": true,
+        "name": "Wight"
+    },
+    "ch227001_00": {
+        "can_float": true,
+        "id": 186889532,
+        "is_boss": true,
+        "is_undead": true,
+        "name": "Wight"
+    },
+    "ch228000": {
+        "id": 3664825389,
+        "is_undead": true,
+        "name": "Undead"
+    },
+    "ch228000_00": {
+        "id": 2967309721,
+        "is_undead": true,
+        "name": "Undead"
+    },
+    "ch228000_01": {
+        "id": 1089854000,
+        "is_undead": true,
+        "name": "Undead"
+    },
+    "ch228001": {
+        "id": 52723289,
+        "name": "Undead"
+    },
+    "ch228001_00": {
+        "id": 2898068966,
+        "is_undead": true,
+        "name": "Undead"
+    },
+    "ch228001_01": {
+        "id": 2515715031,
+        "is_undead": true,
+        "name": "Undead"
+    },
+    "ch228002": {
+        "id": 1668345160,
+        "is_undead": true,
+        "name": "Stout Undead"
+    },
+    "ch228002_00": {
+        "id": 237829752,
+        "is_undead": true,
+        "name": "Stout Undead"
+    },
+    "ch229000": {
+        "id": 3871427245,
+        "is_boss": true,
+        "is_undead": true,
+        "name": "Dullahan"
+    },
+    "ch229000_00": {
+        "id": 2629601821,
+        "is_boss": true,
+        "is_undead": true,
+        "name": "Dullahan"
+    },
+    "ch230000": {
+        "id": 3118161942,
+        "is_human": true,
+        "name": "Rogue"
+    },
+    "ch230000_01": {
+        "id": 1678146412,
+        "is_human": true,
+        "name": "Rogue"
+    },
+    "ch230000_02": {
+        "id": 1999194350,
+        "is_human": true,
+        "name": "Rogue"
+    },
+    "ch230000_03": {
+        "id": 33337065,
+        "is_human": true,
+        "name": "Rogue"
+    },
+    "ch230000_04": {
+        "id": 2405515181,
+        "is_human": true,
+        "name": "Rogue"
+    },
+    "ch230001": {
+        "id": 3139077209,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230001_01": {
+        "id": 3794841598,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230001_02": {
+        "id": 328189375,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230001_03": {
+        "id": 3129435526,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230001_04": {
+        "id": 1434846056,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230001_05": {
+        "id": 2738350696,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230001_06": {
+        "id": 2368799945,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230002": {
+        "id": 3353892892,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230002_01": {
+        "id": 3740205120,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230002_02": {
+        "id": 179954184,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230002_03": {
+        "id": 3930224407,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230002_04": {
+        "id": 4058460161,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230002_05": {
+        "id": 1729485145,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230002_06": {
+        "id": 2698864386,
+        "is_human": true,
+        "name": "Lost Mercenary"
+    },
+    "ch230012": {
+        "id": 2636845582,
+        "is_human": true,
+        "name": "Coral Snake"
+    },
+    "ch230012_02": {
+        "id": 144325129,
+        "is_human": true,
+        "name": "Coral Snake"
+    },
+    "ch230012_04": {
+        "id": 1588377750,
+        "is_human": true,
+        "name": "Coral Snake"
+    },
+    "ch230100": {
+        "id": 1046800430,
+        "is_human": true,
+        "name": "Scavenger"
+    },
+    "ch230100_04": {
+        "id": 368370889,
+        "is_human": true,
+        "name": "Scavenger"
+    },
+    "ch240000": {
+        "id": 2326588354,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Battahl Purgener"
+    },
+    "ch240000_00": {
+        "id": 894557148,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Battahl Purgener"
+    },
+    "ch250000": {
+        "id": 4200835371,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch250000_00": {
+        "id": 797468852,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch250000_01": {
+        "id": 2314122076,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch250000_02": {
+        "id": 2691537244,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch250000_10": {
+        "id": 597201144,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch250000_11": {
+        "id": 2487358235,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch250000_12": {
+        "id": 2142776531,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch250000_20": {
+        "id": 3906583030,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch250000_21": {
+        "id": 377282979,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch250000_22": {
+        "id": 884021677,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch250000_90": {
+        "id": 835332328,
+        "is_boss": true,
+        "name": "Cyclops"
+    },
+    "ch251000": {
+        "id": 2421448835,
+        "is_boss": true,
+        "name": "Ogre"
+    },
+    "ch251000_00": {
+        "id": 2138374751,
+        "is_boss": true,
+        "name": "Ogre"
+    },
+    "ch251001": {
+        "id": 2094960111,
+        "is_boss": true,
+        "name": "Grim Ogre"
+    },
+    "ch251001_00": {
+        "id": 786298456,
+        "is_boss": true,
+        "name": "Grim Ogre"
+    },
+    "ch252000": {
+        "id": 2727149558,
+        "is_boss": true,
+        "name": "Golem"
+    },
+    "ch252000_00": {
+        "id": 2288155078,
+        "is_boss": true,
+        "name": "Golem"
+    },
+    "ch252000_01": {
+        "id": 1156291195,
+        "is_boss": true,
+        "name": "Golem"
+    },
+    "ch252000_02": {
+        "id": 2224608577,
+        "is_boss": true,
+        "name": "Golem"
+    },
+    "ch252000_03": {
+        "id": 812385671,
+        "is_boss": true,
+        "name": "Golem"
+    },
+    "ch253000": {
+        "can_fly": true,
+        "id": 3136630913,
+        "is_boss": true,
+        "name": "Griffin"
+    },
+    "ch253000_00": {
+        "can_fly": true,
+        "id": 3547788120,
+        "is_boss": true,
+        "name": "Griffin"
+    },
+    "ch253001": {
+        "can_fly": true,
+        "id": 1436780457,
+        "is_boss": true,
+        "name": "Sphinx"
+    },
+    "ch253001_00": {
+        "can_fly": true,
+        "id": 3369196004,
+        "is_boss": true,
+        "name": "Sphinx"
+    },
+    "ch253010": {
+        "id": 3796773925,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Vermund Purgener"
+    },
+    "ch253010_00": {
+        "id": 4243003424,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Vermund Purgener"
+    },
+    "ch253011": {
+        "id": 2719193164,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Island Encampment Purgener"
+    },
+    "ch253011_00": {
+        "id": 355142415,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Island Encampment Purgener"
+    },
+    "ch254000": {
+        "id": 920145308,
+        "is_boss": true,
+        "name": "Chimera"
+    },
+    "ch254000_00": {
+        "id": 3550884773,
+        "is_boss": true,
+        "name": "Chimera"
+    },
+    "ch254001": {
+        "id": 3926958653,
+        "is_boss": true,
+        "name": "Gorechimera"
+    },
+    "ch254001_00": {
+        "id": 3236853785,
+        "is_boss": true,
+        "name": "Gorechimera"
+    },
+    "ch254100": {
+        "id": 688186494,
+        "is_boss": true,
+        "name": "Chimera"
+    },
+    "ch254100_00": {
+        "id": 1700400553,
+        "is_boss": true,
+        "name": "Chimera"
+    },
+    "ch254101": {
+        "id": 525456013,
+        "is_boss": true,
+        "name": "Gorechimera"
+    },
+    "ch254101_00": {
+        "id": 2114484143,
+        "is_boss": true,
+        "name": "Gorechimera"
+    },
+    "ch254200": {
+        "id": 819242198,
+        "is_boss": true,
+        "name": "Chimera"
+    },
+    "ch254200_00": {
+        "id": 165035972,
+        "is_boss": true,
+        "name": "Chimera"
+    },
+    "ch254201": {
+        "id": 424837784,
+        "is_boss": true,
+        "name": "Gorechimera"
+    },
+    "ch254201_00": {
+        "id": 2997168797,
+        "is_boss": true,
+        "name": "Gorechimera"
+    },
+    "ch255000": {
+        "id": 1523627639,
+        "is_boss": true,
+        "name": "Medusa"
+    },
+    "ch255000_00": {
+        "id": 3307750390,
+        "is_boss": true,
+        "name": "Medusa"
+    },
+    "ch255000_01": {
+        "id": 4170025353,
+        "is_boss": true,
+        "name": "Medusa"
+    },
+    "ch255000_90": {
+        "id": 114855116,
+        "is_boss": true,
+        "name": "Medusa"
+    },
+    "ch255010": {
+        "id": 2757629441,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Sacred Arbor Purgener"
+    },
+    "ch255010_00": {
+        "id": 2475491578,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Sacred Arbor Purgener"
+    },
+    "ch255011": {
+        "id": 3585982719,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Volcanic Island Purgener"
+    },
+    "ch255011_00": {
+        "id": 3417537573,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Volcanic Island Purgener"
+    },
+    "ch256000": {
+        "id": 777260744,
+        "is_boss": true,
+        "name": "Minotaur"
+    },
+    "ch256000_00": {
+        "id": 3061246416,
+        "is_boss": true,
+        "name": "Minotaur"
+    },
+    "ch256001": {
+        "id": 1488712196,
+        "is_boss": true,
+        "name": "Goreminotaur"
+    },
+    "ch256001_00": {
+        "id": 1057828479,
+        "is_boss": true,
+        "name": "Goreminotaur"
+    },
+    "ch257000": {
+        "can_fly": true,
+        "id": 2617990880,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Drake"
+    },
+    "ch257000_00": {
+        "can_fly": true,
+        "id": 2133916449,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Drake"
+    },
+    "ch257001": {
+        "can_fly": true,
+        "id": 3009322132,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Lesser Dragon"
+    },
+    "ch257001_00": {
+        "can_fly": true,
+        "id": 3538966457,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Lesser Dragon"
+    },
+    "ch258000": {
+        "can_fly": true,
+        "id": 2218318624,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Dragon"
+    },
+    "ch258000_00": {
+        "can_fly": true,
+        "id": 2631267673,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Dragon"
+    },
+    "ch258000_10": {
+        "can_fly": true,
+        "id": 1032736632,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Dragon"
+    },
+    "ch258000_20": {
+        "can_fly": true,
+        "id": 1359728607,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Dragon"
+    },
+    "ch258000_30": {
+        "can_fly": true,
+        "id": 1403005379,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Dragon"
+    },
+    "ch258001": {
+        "can_fly": true,
+        "id": 1472891121,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Nex"
+    },
+    "ch258001_00": {
+        "can_fly": true,
+        "id": 2099579791,
+        "is_boss": true,
+        "is_dragon": true,
+        "name": "Nex"
+    },
+    "ch259000": {
+        "id": 2556420731,
+        "is_boss": true,
+        "name": "Talos"
+    },
+    "ch259000_00": {
+        "id": 3285740536,
+        "is_boss": true,
+        "name": "Talos"
+    },
+    "ch259000_90": {
+        "id": 1992394587,
+        "is_boss": true,
+        "name": "Talos"
+    },
+    "ch259000_91": {
+        "id": 2741660177,
+        "is_boss": true,
+        "name": "Talos"
+    },
+    "ch260000": {
+        "id": 3305878809,
+        "is_canine": true,
+        "name": "Garm"
+    },
+    "ch260000_00": {
+        "id": 169713426,
+        "is_canine": true,
+        "name": "Garm"
+    },
+    "ch260001": {
+        "id": 263786390,
+        "is_canine": true,
+        "name": "Warg"
+    },
+    "ch260001_00": {
+        "id": 247902159,
+        "is_canine": true,
+        "name": "Warg"
+    },
+    "ch299003": {
+        "id": 2755368963,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_00": {
+        "id": 4073166252,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_10": {
+        "id": 3285466677,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_11": {
+        "id": 1830828078,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_12": {
+        "id": 1638238999,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_13": {
+        "id": 1094611796,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_14": {
+        "id": 1016329036,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_15": {
+        "id": 369023852,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_20": {
+        "id": 677531604,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_21": {
+        "id": 1209676654,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_22": {
+        "id": 1944501456,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_30": {
+        "id": 1065282196,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_31": {
+        "id": 3896343726,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_32": {
+        "id": 4173192605,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_40": {
+        "id": 958755609,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_50": {
+        "id": 614907740,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_51": {
+        "id": 1931977881,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_52": {
+        "id": 3404649426,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_60": {
+        "id": 4049672477,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_61": {
+        "id": 1407209575,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_62": {
+        "id": 3832243964,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_90": {
+        "id": 2189330139,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_A_91": {
+        "id": 1175099639,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299003_B_00": {
+        "id": 3790237688,
+        "is_animal": true,
+        "name": "Ox"
+    },
+    "ch299010": {
+        "id": 2448464762,
+        "is_animal": true,
+        "name": "Stag"
+    },
+    "ch299010_A_00": {
+        "id": 879783835,
+        "is_animal": true,
+        "name": "Stag"
+    },
+    "ch299011": {
+        "id": 857350139,
+        "is_animal": true,
+        "name": "Doe"
+    },
+    "ch299011_A_00": {
+        "id": 692713558,
+        "is_animal": true,
+        "name": "Doe"
+    },
+    "ch299020": {
+        "id": 1005028787,
+        "is_animal": true,
+        "name": "Goat"
+    },
+    "ch299020_A_00": {
+        "id": 1656656733,
+        "is_animal": true,
+        "name": "Goat"
+    },
+    "ch299020_B_00": {
+        "id": 660614732,
+        "is_animal": true,
+        "name": "Goat"
+    },
+    "ch299030": {
+        "id": 3543801350,
+        "is_animal": true,
+        "name": "Pig"
+    },
+    "ch299030_A_00": {
+        "id": 3414342046,
+        "is_animal": true,
+        "name": "Pig"
+    },
+    "ch299031": {
+        "id": 856977504,
+        "is_animal": true,
+        "name": "Wild Boar"
+    },
+    "ch299031_A_00": {
+        "id": 929681477,
+        "is_animal": true,
+        "name": "Wild Boar"
+    },
+    "ch299031_B_00": {
+        "id": 1101403807,
+        "is_animal": true,
+        "name": "Wild Boar"
+    },
+    "ch299200": {
+        "id": 1825882043,
+        "is_animal": true,
+        "name": "Rabbit"
+    },
+    "ch299200_A_00": {
+        "id": 3794158447,
+        "is_animal": true,
+        "name": "Rabbit"
+    },
+    "ch299200_B_00": {
+        "id": 4037765830,
+        "is_animal": true,
+        "name": "Rabbit"
+    },
+    "ch299210": {
+        "id": 4246695049,
+        "is_animal": true,
+        "name": "Rat"
+    },
+    "ch299210_A_00": {
+        "id": 3671762608,
+        "is_animal": true,
+        "name": "Rat"
+    },
+    "ch299220": {
+        "id": 4080486209,
+        "is_animal": true,
+        "name": "Rooster"
+    },
+    "ch299220_A_00": {
+        "id": 261171242,
+        "is_animal": true,
+        "name": "Rooster"
+    },
+    "ch299221": {
+        "id": 2452937962,
+        "is_animal": true,
+        "name": "Chicken"
+    },
+    "ch299221_A_00": {
+        "id": 368362284,
+        "is_animal": true,
+        "name": "Chicken"
+    },
+    "ch299230": {
+        "id": 3699103987,
+        "is_animal": true,
+        "name": "Leapworm"
+    },
+    "ch299230_A_00": {
+        "id": 3025108868,
+        "is_animal": true,
+        "name": "Leapworm"
+    },
+    "ch299240": {
+        "id": 2408295807,
+        "is_animal": true,
+        "name": "Spider"
+    },
+    "ch299240_A_00": {
+        "id": 1639472460,
+        "is_animal": true,
+        "name": "Spider"
+    },
+    "ch299400": {
+        "id": 3336645871,
+        "is_animal": true,
+        "name": "Bat"
+    },
+    "ch299400_A_00": {
+        "id": 3479796288,
+        "is_animal": true,
+        "name": "Bat"
+    },
+    "ch299410": {
+        "id": 3831640274,
+        "is_animal": true,
+        "name": "Crow"
+    },
+    "ch299410_A_00": {
+        "id": 597330038,
+        "is_animal": true,
+        "name": "Crow"
+    },
+    "ch299420": {
+        "id": 561151372,
+        "is_animal": true,
+        "name": "Seabird"
+    },
+    "ch299420_A_00": {
+        "id": 1054074961,
+        "is_animal": true,
+        "name": "Seabird"
+    },
+    "ch299430": {
+        "id": 2489368601,
+        "is_animal": true,
+        "name": "Bird"
+    },
+    "ch299430_A_00": {
+        "id": 1454396558,
+        "is_animal": true,
+        "name": "Bird"
+    },
+    "ch299600": {
+        "id": 3331845572,
+        "is_animal": true,
+        "name": "Fish"
+    },
+    "ch299600_A_00": {
+        "id": 310693883,
+        "is_animal": true,
+        "name": "Fish"
+    },
+    "ch299610": {
+        "id": 482197764,
+        "is_animal": true,
+        "name": "Butterfly"
+    },
+    "ch299610_A_00": {
+        "id": 2978377446,
+        "is_animal": true,
+        "name": "Butterfly"
+    },
+    "ch299620": {
+        "id": 1474873777,
+        "is_animal": true,
+        "name": "Grasshopper"
+    },
+    "ch299620_A_00": {
+        "id": 282151500,
+        "is_animal": true,
+        "name": "Grasshopper"
+    }
+}
